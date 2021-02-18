@@ -32,12 +32,6 @@ body {
     left: -128px;
 }
 
-#logo{
-    max-width: 350px;
-    display: block;
-    margin: auto;
-}
-
 .bmd-layout-canvas{
     height: 100vh;
 }
